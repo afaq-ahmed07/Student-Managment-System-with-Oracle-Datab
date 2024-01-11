@@ -18,4 +18,4 @@ To run this project, ensure you have the following prerequisites installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Student-Management-System.git
+   git clone https://github.com/afaq-ahmed07/Student-Management-System.git
